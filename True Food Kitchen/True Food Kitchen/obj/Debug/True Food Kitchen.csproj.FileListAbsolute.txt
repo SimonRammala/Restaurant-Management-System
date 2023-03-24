@@ -1,0 +1,13 @@
+C:\Users\Jeppe college\AppData\Local\Temporary Projects\True Food Kitchen\bin\Debug\True Food Kitchen.exe.config
+C:\Users\Jeppe college\AppData\Local\Temporary Projects\True Food Kitchen\bin\Debug\True Food Kitchen.exe
+C:\Users\Jeppe college\AppData\Local\Temporary Projects\True Food Kitchen\bin\Debug\True Food Kitchen.pdb
+C:\Users\Jeppe college\AppData\Local\Temporary Projects\True Food Kitchen\obj\Debug\True Food Kitchen.csprojResolveAssemblyReference.cache
+C:\Users\Jeppe college\AppData\Local\Temporary Projects\True Food Kitchen\obj\Debug\True_Food_Kitchen.Form1.resources
+C:\Users\Jeppe college\AppData\Local\Temporary Projects\True Food Kitchen\obj\Debug\True_Food_Kitchen.Properties.Resources.resources
+C:\Users\Jeppe college\AppData\Local\Temporary Projects\True Food Kitchen\obj\Debug\True Food Kitchen.csproj.GenerateResource.Cache
+C:\Users\Jeppe college\AppData\Local\Temporary Projects\True Food Kitchen\obj\Debug\True Food Kitchen.exe
+C:\Users\Jeppe college\AppData\Local\Temporary Projects\True Food Kitchen\obj\Debug\True Food Kitchen.pdb
+C:\Users\Jeppe college\AppData\Local\Temporary Projects\True Food Kitchen\obj\Debug\True_Food_Kitchen.Loading_page.resources
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\True Food Kitchen\bin\Debug\True Food Kitchen.exe.config
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\True Food Kitchen\obj\Debug\True Food Kitchen.exe
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\True Food Kitchen\obj\Debug\True Food Kitchen.pdb
