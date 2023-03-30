@@ -24,18 +24,21 @@ namespace True_Food_Kitchen
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            
-            if(progressBar1.Minimum < progressBar1.Maximum)
+
+            Menu_Window next_page = new Menu_Window();
+
+
+            if (progressBar1.Minimum < progressBar1.Maximum)
             {
                 progressBar1.Value += 1;
                 lbl_percentage.Text = progressBar1.Value.ToString() + " %";
             }
 
-
             if(progressBar1.Value == 100)
             {
                 timer1.Enabled = false;
                 this.Hide();
+                next_page.Show();
             }
 
 

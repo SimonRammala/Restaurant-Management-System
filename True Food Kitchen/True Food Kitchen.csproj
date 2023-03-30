@@ -58,6 +58,12 @@
     <Compile Include="Loading_page.Designer.cs">
       <DependentUpon>Loading_page.cs</DependentUpon>
     </Compile>
+    <Compile Include="Menu_Window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Window.Designer.cs">
+      <DependentUpon>Menu_Window.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -65,6 +71,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Loading_page.resx">
       <DependentUpon>Loading_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Window.resx">
+      <DependentUpon>Menu_Window.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
