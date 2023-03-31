@@ -10,3 +10,22 @@ C:\Users\Thapelo\source\repos\SimonRammala\Restaurant-Management-System\True Foo
 C:\Users\Thapelo\source\repos\SimonRammala\Restaurant-Management-System\True Food Kitchen\obj\Debug\True Food Kitchen.exe
 C:\Users\Thapelo\source\repos\SimonRammala\Restaurant-Management-System\True Food Kitchen\obj\Debug\True Food Kitchen.pdb
 C:\Users\Thapelo\source\repos\SimonRammala\Restaurant-Management-System\True Food Kitchen\obj\Debug\True_Food_Kitchen.Loading_page.resources
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\True Food Kitchen.exe.config
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\obj\Debug\True Food Kitchen.exe
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\obj\Debug\True Food Kitchen.pdb
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\True Food Kitchen.exe
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\True Food Kitchen.pdb
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\mscorlib.dll
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\System.Net.Http.dll
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\System.Net.Http.xml
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\normidna.nlp
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\normnfc.nlp
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\normnfd.nlp
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\normnfkc.nlp
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\bin\Debug\normnfkd.nlp
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\obj\Debug\True Food Kitchen.csprojResolveAssemblyReference.cache
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\obj\Debug\True_Food_Kitchen.Welcome.resources
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\obj\Debug\True_Food_Kitchen.Loading_page.resources
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\obj\Debug\True_Food_Kitchen.Menu_Window.resources
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\obj\Debug\True_Food_Kitchen.Properties.Resources.resources
+C:\Users\Jeppe college\Desktop\Restaurant-Management-System\True Food Kitchen\obj\Debug\True Food Kitchen.csproj.GenerateResource.Cache

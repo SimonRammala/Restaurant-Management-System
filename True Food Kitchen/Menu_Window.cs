@@ -21,5 +21,10 @@ namespace True_Food_Kitchen
         {
 
         }
+
+        private void btnexit_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
