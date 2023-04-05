@@ -24,7 +24,24 @@ namespace True_Food_Kitchen
 
         private void btnexit_Click(object sender, EventArgs e)
         {
+            DialogResult result = MessageBox.Show("Are you sure that you want to exit", "Exit", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
 
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
+            }
+            else
+            {
+                this.Show();
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            lsbitem_list.Items.Clear();
+            lsb_spices_for_the_chicken.Items.Clear();
+            txtdrinks_price.Clear();
+            
         }
     }
 }
